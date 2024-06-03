@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-  // Crear una matriz 2x2
+  
   int matriz[2][2];
 
-  // Asignar los valores a la matriz
+  
   matriz[0][0] = 10;
   matriz[0][1] = 20;
   matriz[1][0] = 30;
